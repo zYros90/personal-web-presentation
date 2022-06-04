@@ -10,9 +10,10 @@ Create a website for giving an overview over me, my skills and projects
 #### Project State:
 This website (almost finished)
 
-#### Technologies: 
-* to create this site I used [hugo](https://gohugo.io/) a framework for building static websites
+#### Used Technologies: 
+* [hugo](https://gohugo.io/) a framework for building static websites
 * [coder](https://github.com/luizdepra/hugo-coder) template for the hugo framework
+* [docker](https://www.docker.com/)
 
 #### TODOs
 * add more projects
