@@ -4,8 +4,8 @@ date: 2022-05-29T10:48:02+02:00
 draft: false
 ---
 
-#### Goal:
-Create a website for giving an overview over me, my skills and projects
+#### Overview:
+A website for giving an expression over myself, my skills and projects
 
 #### Project State:
 This website (almost finished)
@@ -19,4 +19,4 @@ This website (almost finished)
 * add more projects
 
 #### Source: 
-The source code of this site can be found on my [github](https://github.com/zyros90/personal-web-presentation)
+The source code can be found on my [github](https://github.com/zyros90/personal-web-presentation)
