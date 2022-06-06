@@ -130,9 +130,9 @@ url = "https://www.linkedin.com/in/felix-promesberger-51b5b71aa/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Resume"
 weight = 1
-url = "about/"
+url = "resume/"
 
 # [[languages.en.menu.main]]
 # name = "Blog"
@@ -160,9 +160,9 @@ info = ["Go Entwickler", "Backend Ingenieur"]
 
 
 [[languages.pt-de.menu.main]]
-name = "Über mich"
+name = "Lebenslauf"
 weight = 1
-url = "about/"
+url = "resume/"
 
 [[languages.pt-de.menu.main]]
 name = "Projekte"
