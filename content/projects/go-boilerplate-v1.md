@@ -25,6 +25,8 @@ In development
 * [zap](https://github.com/uber-go/zap) fast, structured, leveled logging
 * [cobra](https://cobra.dev) a framework for modern CLI apps
 * [viper](https://github.com/spf13/viper) configuration management
+* [golangci-lint](https://golangci-lint.run/) go linters
+* [testing](https://pkg.go.dev/testing) standard library for unit tests
 
 ###### Other tools
 * [postgres](https://www.postgresql.org/)
@@ -33,7 +35,9 @@ In development
 * [makefile](https://wiki.ubuntuusers.de/Makefile/)
 
 #### TODOs
-* add tests
+* add integration tests
+* add kafka
+* add redis
 * add prometheus
 
 #### Source: 
