@@ -38,7 +38,6 @@ In development
 * add integration tests
 * add kafka
 * add redis
-* add prometheus
 
 #### Source: 
 The source code can be found on my [github](https://github.com/zyros90/go-boilerplate-v1)
