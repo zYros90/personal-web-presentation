@@ -5,10 +5,10 @@ draft: false
 ---
 
 #### Overview:
-A website for giving an expression over myself, my skills and projects
+A static website to present myself, my skills and projects
 
 #### Project State:
-This website (almost finished)
+in development
 
 #### Used Technologies: 
 * [hugo](https://gohugo.io/) a framework for building static websites
