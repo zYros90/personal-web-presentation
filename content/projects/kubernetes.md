@@ -13,7 +13,7 @@ Special features:
 * Using different namespaces to organize my services
 
 #### Project State:
-Deployed 3rd-pary services:
+Deployed 3rd-party services:
 * [minio](https://min.io/)
 * [docker-registry](https://docs.docker.com/registry/)
 * [cert-manager](https://cert-manager.io/)
