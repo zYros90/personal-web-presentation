@@ -118,13 +118,13 @@ url = "https://www.linkedin.com/in/felix-promesberger-51b5b71aa/"
 # weight = 5
 # url = "https://medium.com/@johndoe"
 
-# [[params.social]]
-# name = "RSS"
-# icon = "fa fa-2x fa-rss"
-# weight = 6
-# url = "https://myhugosite.com/index.xml"
-# rel = "alternate"
-# type = "application/rss+xml"
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-email-bulk"
+weight = 6
+url = "mailto:felix@promesberger.dev"
+rel = "alternate"
+type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
@@ -149,10 +149,10 @@ name = "Tech-Radar"
 weight = 4
 url = "https://radar.promesberger.dev"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
 
 [languages.pt-de]
 languageName = ":de:"
@@ -179,7 +179,7 @@ name = "Tech-Radar"
 weight = 4
 url = "https://radar.promesberger.dev"
 
-[[languages.pt-de.menu.main]]
-name = "Kontakt"
-weight = 5
-url = "contact/"
+# [[languages.pt-de.menu.main]]
+# name = "Kontakt"
+# weight = 5
+# url = "contact/"

@@ -7,13 +7,15 @@ draft: false
 #### Overview:
 A simple boilerplate for backends written in Go.
 
+Actors can use gRPC or REST API.
+
 Right now supports rest api and writing to sql databases. The plan is to add caching (redis), a client for message broker(kafka), a second microservice and grpc calls. 
 
 ![](/images/boilerplate-vision.svg)
 
 The project layout is inspired by the [kratos](https://github.com/go-kratos/kratos) framework which uses DDD and clean architecture design.
 
-
+Because of the clean architecture design you can change between different http frameworks or ORMs without breaking anything.
 
 #### Project State:
 In development
@@ -21,6 +23,7 @@ In development
 #### Used Technologies:
 ###### Go tools and frameworks
 * [echo](https://echo.labstack.com/), a high performant, minimalist go web framework
+* [grpc](https://grpc.io/) high performance, open source universal RPC framework
 * [ent](https://entgo.io/) powerful ORM from facebook
 * [zap](https://github.com/uber-go/zap) fast, structured, leveled logging
 * [cobra](https://cobra.dev) a framework for modern CLI apps
@@ -30,7 +33,8 @@ In development
 
 ###### Other tools
 * [postgres](https://www.postgresql.org/)
-* [proto3](https://developers.google.com/protocol-buffers/docs/proto3) 
+* [proto3](https://developers.google.com/protocol-buffers/docs/proto3)
+* [protoc-gen-validate ](https://github.com/envoyproxy/protoc-gen-validate) for generating message validators
 * [docker](https://www.docker.com/) 
 * [makefile](https://wiki.ubuntuusers.de/Makefile/)
 
