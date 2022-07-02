@@ -14,7 +14,7 @@ draft: false
 * Working with CI/CD (Makefile, Gitlab-CI, Helm, Argo CD), Kubernetes (K3S and Rancher) and Docker
 * Implementation of monitoring (prometheus), tracing (OpenTelemetry) and auditing
 * Development of various CLI applications in Go and Python
-* Development an app for Linux smart devices in Go, which allow the devices to connect to the backend and enables monitoring and remote controll
+* Creating a application for Linux smart devices in Go, which allow the devices to connect to the backend and enables monitoring and remote controll
 
 
 #### 03/2018 – 07/2020 
