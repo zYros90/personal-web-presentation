@@ -15,7 +15,7 @@ In progress
 * [jwt](https://jwt.io/) generate jwt tokens
 * [middlewares]() validating jwt token
 * [hash]() hash and validate passwords
-* [http/net] standard library for creating http mock server and http requests
+* [http/net]() standard library for creating http mock server and http requests
 
 #### TODOs
 * add more
