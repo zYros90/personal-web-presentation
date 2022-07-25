@@ -7,13 +7,12 @@ draft: false
 # Berufserfahrung
 #### 11/2020 - heute
 ##### Softwareentwickler, divVoice GmbH, Aachen
-* Entwicklung von verschiedenen Microservices in Go für eine IoT-Plattform
-* Implementierung von REST APIs, gRPC Services und asynchrones pub/sub-Messaging
-* Anbindung und Nutzung von PostgreSQL sowohl mit ORMs (GORM und ent) als auch mit SQL-Queries und Redis
-* Nutzung von Monitoring (prometheus), Tracing (OpenTelemetry) und Auditing
+* Entwicklung von mehreren Microservices in der Programmiersprache Go für eine IoT-Plattform
+* Implementierung von REST APIs, gRPC Services und pub/sub Messaging-Systemen
+* Anbindung und Nutzung von PostgreSQL mit Timescale und Redis
+* Einsetzung verschiedener Diagnosestrategien, wie Monitoring (Prometheus, Grafana), Tracing (OpenTelemetry) und Auditing
 * Arbeiten mit CI/CD (Makefile, Gitlab-CI, Helm, Argo CD), Kubernetes (K3S und Rancher) und Docker
-* Entwicklung von verschiedenen CLI-Anwendungen in Go und Python
-
+* Entwicklung von verschiedenen CLI-Anwendungen in den Programmiersprachen Go und Python
 
 #### 03/2018 – 07/2020 
 ##### Werkstudent, Fraunhofer-Institut für Produktionstechnologie, Aachen
