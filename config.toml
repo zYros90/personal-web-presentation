@@ -16,7 +16,7 @@ author = "Felix Promesberger"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Felix Promesberger's website"
 # keywords = "blog,developer,personal"
-info = ["Go Developer", "Backend Engineer"]
+info = ["Engineer", "Software Developer"]
 avatarURL = "images/avatar.webp"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
