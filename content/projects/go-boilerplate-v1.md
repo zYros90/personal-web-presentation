@@ -9,13 +9,13 @@ A simple boilerplate for backends written in Go.
 
 Actors can use gRPC or REST API.
 
-Right now supports rest api and writing to sql databases. The plan is to add caching (redis), a client for message broker(kafka), a second microservice and grpc calls. 
+All Data is saved in PostgreSQL and cached in Redis.
 
 ![](/images/boilerplate-vision.svg)
 
 The project layout is inspired by the [kratos](https://github.com/go-kratos/kratos) framework which uses DDD and clean architecture design.
 
-Because of the clean architecture design you can change between different http frameworks or ORMs without breaking anything.
+Because of the clean architecture design you can change between different http frameworks, databases or ORMs without breaking anything.
 
 #### Project State:
 In development
@@ -40,8 +40,7 @@ In development
 
 #### TODOs
 * add integration tests
-* add kafka
-* add redis
+* add nats
 
 #### Source: 
 The source code can be found on my [github](https://github.com/zyros90/go-boilerplate-v1)
