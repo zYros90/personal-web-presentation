@@ -5,6 +5,10 @@ draft: false
 ---
 
 # Berufserfahrung
+#### 08/2022 - heute
+##### Softwareentwickler, golane, Aachen
+* Wartung und Entwicklung von Microservices in der Programmiersprache Go
+
 #### 11/2020 - heute
 ##### Softwareentwickler, divVoice GmbH, Aachen
 * Entwicklung von mehreren Microservices in der Programmiersprache Go für eine IoT-Plattform

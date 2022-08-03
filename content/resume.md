@@ -6,7 +6,11 @@ draft: false
 
 
 # Working Experience
-#### 11/2020 - today
+#### 08/2022 - today
+##### Software Developer, golane, München
+* Development of microservices in Go
+
+#### 11/2020 - 07/2022
 ##### Software Developer, divVoice GmbH, Aachen
 * Development and deployment of serveral microservices in Go for a IoT platform
 * Working with PostgreSQL, MondoDB and Redis
