@@ -7,7 +7,7 @@ draft: false
 
 # Working Experience
 #### 08/2022 - today
-##### Software Developer, golane, München
+##### Software Developer, golane UG, München
 * Development of microservices in Go
 
 #### 11/2020 - 07/2022

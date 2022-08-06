@@ -6,7 +6,7 @@ draft: false
 
 # Berufserfahrung
 #### 08/2022 - heute
-##### Softwareentwickler, golane, Aachen
+##### Softwareentwickler, golane UG, Aachen
 * Wartung und Entwicklung von Microservices in der Programmiersprache Go
 
 #### 11/2020 - heute
