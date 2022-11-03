@@ -8,7 +8,7 @@ draft: false
 # Working Experience
 #### 08/2022 - today
 ##### Software Developer, golane UG, Munich
-* Maintance and Development of microservices in Go
+* Maintenance and development of microservices in Go
 * Working with PostgreSQL, Redis and Kafka
 * Implementation of gRPC and GraphQL services
 * Working with CI/CD (Makefile, Github-CI), Kubernetes and Docker
@@ -21,7 +21,7 @@ draft: false
 * Working with CI/CD (Makefile, Gitlab-CI, Helm, Argo CD), Kubernetes (K3S and Rancher) and Docker
 * Implementation of monitoring (prometheus), tracing (OpenTelemetry) and auditing
 * Development of various CLI applications in Go and Python
-* Creating a application for Linux smart devices in Go, which allow the devices to connect to the backend and enables monitoring and remote controll
+* Creation of an app for Linux smart devices in Go, which allows the devices to connect to the backend and enables monitoring and remote controll
 
 
 #### 03/2018 – 07/2020 
