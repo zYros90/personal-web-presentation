@@ -1,14 +1,17 @@
 ---
-title: "About Me"
-date: 2022-05-29T10:48:02+02:00
+title: "Resume"
+date: 2022-11-03-T15:50:02+01:00
 draft: false
 ---
 
 
 # Working Experience
 #### 08/2022 - today
-##### Software Developer, golane UG, München
-* Development of microservices in Go
+##### Software Developer, golane UG, Munich
+* Maintance and Development of microservices in Go
+* Working with PostgreSQL, Redis and Kafka
+* Implementation of gRPC and GraphQL services
+* Working with CI/CD (Makefile, Github-CI), Kubernetes and Docker
 
 #### 11/2020 - 07/2022
 ##### Software Developer, divVoice GmbH, Aachen

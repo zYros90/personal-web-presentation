@@ -1,6 +1,6 @@
 ---
 title: "Go Backend Boilerplate"
-date: 2022-06-06T10:48:02+02:00
+date: 2022-10-15T10:48:02+02:00
 draft: false
 ---
 
