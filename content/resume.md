@@ -5,16 +5,16 @@ draft: false
 ---
 
 
-# Working Experience
-#### 08/2022 - today
-##### Software Developer, golane UG, Munich
+## Working Experience
+
+##### 08/2022 - 12/2022 &emsp;&emsp; Software Developer, &ensp; golane UG, &ensp; Munich
 * Maintenance and development of microservices in Go
 * Working with PostgreSQL, Redis and Kafka
 * Implementation of gRPC and GraphQL services
 * Working with CI/CD (Makefile, Github-CI), Kubernetes and Docker
 
-#### 11/2020 - 07/2022
-##### Software Developer, divVoice GmbH, Aachen
+
+##### 11/2020 - 07/2022 &emsp; Software Developer, &ensp; divVoice GmbH, &ensp; Aachen
 * Development and deployment of serveral microservices in Go for a IoT platform
 * Working with PostgreSQL, MondoDB and Redis
 * Implementation of REST APIs, gRPC services and asynchronous messaging
@@ -24,21 +24,26 @@ draft: false
 * Creation of an app for Linux smart devices in Go, which allows the devices to connect to the backend and enables monitoring and remote controll
 
 
-#### 03/2018 – 07/2020 
-##### Working Student, Fraunhofer Institute for Production Technology, Aachen
+##### 03/2018 – 07/2020 &emsp; Working Student, &ensp; Fraunhofer IPT, &ensp; Aachen
 * Evaluation of sensor data: exploration, preprocessing, modeling and visualization
 * Applying methods of artificial intelligence with Python: Multi-Layer-Perceptron, Long Short-Term Memory, Convolutional Neural Networks
 * Scientific studies on machine tools using Design of Experiments
 * Implementation and operation of measurement technology: acceleration sensors, microphones and microscopes
 
-#### 05/2015 – 12/2015 
-##### Working Student, Fraunhofer Institute for Production Technology, Aachen
+
+##### 05/2015 – 12/2015 &emsp; Working Student, &ensp; Fraunhofer IPT, &ensp; Aachen
 * Construction and setup of sensor applications for deformation measurements
 * FEM calculations on the thermoelastic behavior of machine components
 * Integration of temperature measurement technology in a machine tool	
 
-# Education
-##### 10/2018 – 10/2020 - RWTH Aachen
+
+
+## Education
+
+##### 10/2018 – 10/2020 &emsp; Master's program, &ensp; RWTH Aachen
 M. Sc. Production Engineering with compulsory subjects specialization in Automation and Machine Design
-##### 10/2014 – 09/2018 - RWTH Aachen
+
+
+##### 10/2014 – 09/2018 &emsp; Bachelor's program, &ensp; RWTH Aachen
 B. Sc. Mechanical Engineering
+
