@@ -12,7 +12,7 @@ It can be installed with:
 go install github.com/zyros90/protoc-gen-restapi@latest
 ```
 
-if you have i.e. a `user.proto` file which have [google api proto annotations](https://github.com/googleapis/googleapis/blob/master/google/api/annotations.proto):
+if you have i.e. a `user.proto` file which contains [google api proto annotations](https://github.com/googleapis/googleapis/blob/master/google/api/annotations.proto):
 ```proto
 import "google/api/annotations.proto";
 service UserSvc {
